@@ -17,5 +17,11 @@ Drivetrain Code for the Modulated Robot or any other drivetrain using 4 wheels
 - Wireless or Wired connection to an Active RoboRio controller board
 - [Optional for Sensor Monitoring] Latest Version of Shuffleboard Robot Dashboard Software
 
-# Controller Bindings
+# Controller Configuration and Bindings
 
+Drive Style: Tank Drive and Arcade Control [Default Tank Drive]
+
+Left Joystick: Accelerate/Deaccelerate Left Wheel Pair
+Right Joystick: Accelerate/Deaccelerate Right Wheel Pair
+B Button: Switch Drive Styles
+Menu Button: Kill all Robot Functions
