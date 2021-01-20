@@ -1,5 +1,5 @@
 # UniversalDriveCode
-Repository for my universal Drivetrain Code for any Robot that complys with the below requirements and dependencies. Please don't change ma code. Thats my code for testing and build deployment purposes. If there are any issues put it in the tab so I know what to change if the code stops working. If you would like to use this, feel free to copy it but give our team some credit! @Tribe Tech 4485
+Repository for my universal Drivetrain Code for any Robot that complys with the below requirements and dependencies. Please don't change ma code. Thats my code for testing and build deployment purposes. If there are any issues put it in the ISSUES TAB so I know what to change if the code stops working. If you would like to use this, feel free to copy it but give our team some credit! @Tribe Tech 4485
 
 # Robot Hardware and Software Dependencies
 
