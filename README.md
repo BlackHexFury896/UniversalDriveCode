@@ -21,7 +21,7 @@ Drivetrain Code for the Modulated Robot or any other drivetrain using 4 wheels
 
 Drive Style: Tank Drive and Arcade Control [Default Tank Drive]
 
-Left Joystick: Accelerate/Deaccelerate Left Wheel Pair
-Right Joystick: Accelerate/Deaccelerate Right Wheel Pair
-B Button: Switch Drive Styles
-Menu Button: Kill all Robot Functions
+- Left Joystick: Accelerate/Deaccelerate Left Wheel Pair
+- Right Joystick: Accelerate/Deaccelerate Right Wheel Pair
+- B Button: Switch Drive Styles
+- Menu Button: Kill all Robot Functions
